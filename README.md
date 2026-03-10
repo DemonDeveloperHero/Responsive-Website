@@ -1,4 +1,3 @@
-# Responsive-Website
 # Responsive Website 🌐
 
 A simple **responsive website** built using **HTML and CSS**.
